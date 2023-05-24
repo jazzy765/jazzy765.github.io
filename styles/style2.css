@@ -1,6 +1,8 @@
 body {
     max-width: 700px;
     margin: 10 auto;
+    background-color: black;
+    color: #ce8bed;
   }
   
   .sender-column {
