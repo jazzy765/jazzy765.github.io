@@ -1,8 +1,9 @@
 body {
-    max-width: 700px;
-    margin: 10px;
-    background-color: black;
-    color: #ce8bed;
+    font-family:  Arial, Helvetica, sans-serif;
+    background-color: #060010;
+    color: #cf82f5;
+    line-height: 1.6;
+    text-align: left;
   }
   
   .sender-column {
